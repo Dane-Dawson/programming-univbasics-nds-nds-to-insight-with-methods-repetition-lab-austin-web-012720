@@ -46,7 +46,7 @@ dir_lis = list_of_directors(source) #array
   index = 0 
   
   while index < dir_tot.length do
-    total += dir_tot[index]
+    total += dir_tot[dir_list]
     index += 1
   end
   
