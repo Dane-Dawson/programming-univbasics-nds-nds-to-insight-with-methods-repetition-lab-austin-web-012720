@@ -45,7 +45,7 @@ dir_lis = list_of_directors(source)
   total = 0 
   index = 0 
   
-  while index < directors_totals(source).length do
+  while index < dir_tot.length do
     total += directors_totals(source)[index][:name]
     index += 1
   end
