@@ -39,8 +39,8 @@ end
 
 def total_gross(source)
   
-dir_tot = directors_totals(source)
-dir_lis = list_of_directors(source)
+dir_tot = directors_totals(source) #hash
+dir_lis = list_of_directors(source) #array
 
   total = 0 
   index = 0 
