@@ -39,8 +39,8 @@ end
 
 def total_gross(source)
   
-directors_totals
-list_of_directors
+directors_totals(source)
+list_of_directors(source)
 
   total = 0 
   index = 0 
