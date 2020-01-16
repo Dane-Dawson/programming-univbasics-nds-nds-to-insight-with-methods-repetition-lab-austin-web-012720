@@ -49,7 +49,7 @@ def total_gross(source)
   
   total
 
-
+pp directors_total(source)
   # Write this implementation
   #
   # Should use methods:
