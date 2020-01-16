@@ -40,6 +40,7 @@ end
 def total_gross(source)
   
 directors_totals
+list_of_directors
   total = 0 
   index = 0 
   
