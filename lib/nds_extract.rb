@@ -12,7 +12,7 @@ def directors_totals(source)
   result
 end
 
-
+directors_totals(source)
 
 def gross_for_director(d)
   total = 0
@@ -49,7 +49,7 @@ def total_gross(source)
   
   total
 
-pp directors_totals(source)
+
   # Write this implementation
   #
   # Should use methods:
