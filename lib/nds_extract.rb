@@ -47,6 +47,8 @@ def total_gross(source)
   
   total
   
+  pp source
+
   # Write this implementation
   #
   # Should use methods:
